@@ -7,7 +7,8 @@ En la carpeta `.learn/assets` encontraras el script [check-rules.sh](https://git
 
 ## 1. Ejecuta el script
 
-Una vez pegado el script [check-rules.sh](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/.learn/assets/check-rules.sh) en tu maquina Debian, abre la terminal y navega al directorio donde se encuentra el script, en nuestro caso `./Escritorio` y haz que el script sea ejecutable (si aún no lo es). Esto se puede hacer usando el comando `chmod`:
+Una vez pegado el script [
+) en tu maquina Debian, abre la terminal y navega al directorio donde se encuentra el script, en nuestro caso `./Escritorio` y haz que el script sea ejecutable (si aún no lo es). Esto se puede hacer usando el comando `chmod`:
 
 ```sh
 chmod +x check-rules.sh
